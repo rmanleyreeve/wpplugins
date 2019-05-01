@@ -1,0 +1,19 @@
+{
+	"name" : "WooCommerce Customer Email Exporter",
+	"slug" : "woocommerce-customer-email-exporter",
+	"download_url" : "https://re-media.biz/plugins/woocommerce-customer-email-exporter.zip",
+	"version" : "1.2",
+	"requires" : "3.5",
+	"tested" : "5.1.1",
+	"last_updated" : "2019-05-01 11:00:00",
+	"upgrade_notice" : "Plugin update is available.",
+	"homepage" : "https://re-media.biz",
+	"author" : "RE Media",
+	"author_homepage" : "https://re-media.biz",
+	"sections" : {
+		"description" : "Allows you to export all customer emails from WooCommerce into a CSV file.",
+		"installation" : "<ol><li>Install and activate the plugin through the plugins menu.</li><li>Go to WooCommerce  > Reports > Customers tab to use this function.</li></ol>",
+		"screenshots" : "<ol><li><a href=\"https://re-media.biz/plugins/woocommerce-customer-email-exporter/screenshot-1.jpg\" target=\"_blank\"><img src=\"https://re-media.biz/plugins/woocommerce-customer-email-exporter/screenshot-1.jpg\" alt=\"The email export page\" /></a><p>The email export page</p></li></ol>",
+		"changelog" : "<h4>1.1 – April 11, 2018</h4><ul><li>Some bugs were fixed.</li><li>Release date.</li></ul><h4>1.2 – May 1, 2019</h4><ul><li>UTF8 support added</li></ul>"
+	}
+}

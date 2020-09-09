@@ -3,7 +3,7 @@ Contributors: rmr, mitcmt
 Plugin Site: http://re-media.biz
 Tags: woocommerce, customer, email, export, csv
 Requires at least: 3.5
-Tested up to: 5.1.1
+Tested up to: 5.5
 Stable tag: 1.2
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html

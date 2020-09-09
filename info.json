@@ -4,7 +4,7 @@
 	"download_url" : "https://re-media.biz/plugins/woocommerce-customer-email-exporter.zip",
 	"version" : "1.2",
 	"requires" : "3.5",
-	"tested" : "5.1.1",
+	"tested" : "5.5",
 	"last_updated" : "2019-05-01 11:00:00",
 	"upgrade_notice" : "Plugin update is available.",
 	"homepage" : "https://re-media.biz",
